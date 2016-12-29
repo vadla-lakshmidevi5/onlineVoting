@@ -1,5 +1,4 @@
 # onlineVoting
-# About Online Voting
       Our Online Voting is the most eco-friendly online voting system. This helps in  meeting  environmental and sustainability objectives by reducing paper usuage in  voting events as much as possible.
 
    Environmental Impact of Online Voting
